@@ -18,6 +18,7 @@ import org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;
  *         (useful when upgrading to a new version of Hibernate Validator/ Bean Validation)
  *         
  *         Added Version.
+ *         Added New Feature.
  */
 public class ValidatorTests {
 
